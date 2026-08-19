@@ -2,7 +2,6 @@
 
 A beginner-friendly, hands-on workshop for learning the basics of GitHub.
 
-**Duration:** 1 hour 15 minutes  
 **Level:** Beginner — no prior experience required
 
 ## What You'll Learn
@@ -37,13 +36,13 @@ git config --global user.email "your-email@example.com"
 
 ## Workshop Agenda
 
-| # | Topic | Duration |
-|---|-------|----------|
-| 1 | Welcome & what is Git/GitHub? | 10 min |
-| 2 | Exercise 1: Your first commit | 20 min |
-| 3 | Exercise 2: Working with branches | 20 min |
-| 4 | Exercise 3: Opening a pull request | 15 min |
-| 5 | Wrap-up & Q&A | 10 min |
+| # | Topic |
+|---|-------|
+| 1 | Welcome & what is Git/GitHub? |
+| 2 | Exercise 1: Your first commit |
+| 3 | Exercise 2: Working with branches |
+| 4 | Exercise 3: Opening a pull request |
+| 5 | Wrap-up & Q&A |
 
 ## Exercises
 
